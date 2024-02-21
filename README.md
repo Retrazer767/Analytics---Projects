@@ -4,8 +4,8 @@
 
 This repository contains the ML projects where I took data sets from Kaggle
 
-- My Aim was to learn about ML and try solving various problems within it
-- These projects helped me to gain knowledeg in Machine Learning
+- I aimed to learn about ML and try solving various problems within it
+- These projects helped me to gain knowledge in Machine Learning
 
 ## Projects
 
