@@ -12,7 +12,7 @@ This repository contains the ML projects where I took data sets from Kaggle
 
 ## Fraudulent Credit card Analysis
   Took the credit card transaction data from Kaggle to develop a Machine Learning model to predict the transaction as fraud and non-fraud transactions. 
-  As the data set is highly imbalanced, employed a technique of random under-sampling  
+  As the data set is highly imbalanced, employed a technique of random under-sampling.
   Used ML algorithms such as Logistic regression and Support Vector Classifier to develop a model.
 
 ## Spam mail Prediction using Naive Bayes Classifier
