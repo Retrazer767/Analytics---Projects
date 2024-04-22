@@ -9,10 +9,6 @@ This repository contains the ML projects where I took data sets from Kaggle
 
 ## Projects
 
-Data Analysis of Road Accidents
--Took the data of road accidents from Kaggle which happened across various states of India 
--Did data preprocessing and used visualization tools like seaborn to predict the trend
--Also used machine learning algorithms such as linear regression to predict the accident data for the subsequent years.
 
 Fraudulent Credit card Analysis
 -Took the credit card transaction data from Kaggle to develop a Machine Learning model to predict the transaction as fraud and non-fraud transactions. 
