@@ -20,7 +20,7 @@ This repository contains the ML projects where I took data sets from Kaggle
   Removed stop words, applied stemming, and converted the data into vectors using Bag-of-Words.
   Enhanced the features using TFIDF and employed the Naive Bayes algorithm for spam and ham classification.
 
-## House Price prediction using advanced regression techniques: Jul 2023
+## House Price prediction using advanced regression techniques:
   Took the data on housing prices from Kaggle with various features.
   Did feature engineering to find the important features
   Applied advanced regression algorithms to it to predict the housing price.
