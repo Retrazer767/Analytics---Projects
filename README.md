@@ -1,4 +1,4 @@
-# Analytics Projects
+# ML Projects
 
 ## Description
 
