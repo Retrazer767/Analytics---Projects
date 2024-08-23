@@ -27,3 +27,12 @@ This repository contains the ML projects where I took data sets from Kaggle
   Found the cost function of each model and compared them to find a generalized model.
 
 
+# Choclate Industry Supply chain Data analysis using Power BI
+
+##Description
+
+- Did a project using a sample chocolate industry data and using power BI I created a dashboard to analyse their supply chain
+- Used Power query to clean up and transform the data for my use case
+- Used the inbuilt DAX scripting and developed a Dashboard 
+
+
