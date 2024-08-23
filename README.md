@@ -1,13 +1,13 @@
-# ML Projects
+# Analytics Projects
 
 ## Description
 
-This repository contains the ML projects where I took data sets from Kaggle
+This repository contains the  projects where I took data sets from Kaggle 
 
 - I aimed to learn about ML and try solving various problems within it
-- These projects helped me to gain knowledge in Machine Learning
+- These projects helped me to gain knowledge in Machine Learning and data analysis
 
-## Projects
+## ML Projects
 
 
 ## Fraudulent Credit card Analysis
@@ -26,10 +26,11 @@ This repository contains the ML projects where I took data sets from Kaggle
   Applied advanced regression algorithms to it to predict the housing price.
   Found the cost function of each model and compared them to find a generalized model.
 
+## Power BI Projects
 
 # Choclate Industry Supply chain Data analysis using Power BI
 
-##Description
+## Description
 
 - Did a project using a sample chocolate industry data and using power BI I created a dashboard to analyse their supply chain
 - Used Power query to clean up and transform the data for my use case
