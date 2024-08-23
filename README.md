@@ -28,7 +28,8 @@ This repository contains the  projects where I took data sets from Kaggle
 
 ## Power BI Projects
 
-# Choclate Industry Supply chain Data analysis using Power BI
+
+## Choclate Industry Supply chain Data analysis using Power BI
 
 ## Description
 
