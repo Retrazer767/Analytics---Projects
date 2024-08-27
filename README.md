@@ -26,6 +26,13 @@ This repository contains the  projects where I took data sets from Kaggle
   Applied advanced regression algorithms to it to predict the housing price.
   Found the cost function of each model and compared them to find a generalized model.
 
+## Customer Segmentation System:
+
+  Took the data of customers from a grocery firm’s database and performed unsupervised clustering of data to segment the customers to improve the business.
+  Did dimensionality reduction using Principal Component Analysis and reduced the dimensions to 3.
+  Used elbow method to find the optimal number of clusters and implemented agglomerative clustering for the dataset
+  Identified 5 customer clusters based on customer features.
+
 ## Power BI Projects
 
 
